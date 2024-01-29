@@ -1,4 +1,4 @@
-[[200]](https://account.wp.ford.com 
+https://account.wp.ford.com 
 https://account.wp.dev.ford.com 
 https://access-prod.cf.app.ford.com 
 https://access-edu.pp.cf.app.ford.com 
